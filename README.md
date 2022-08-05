@@ -2,6 +2,7 @@
 ###### ReactJS
 
 >React JS Fundamentals Course (2019 Update)<br>
+>https://nomadcoders.co/react-for-beginners/lobby
 <br>
 2019년 ver. movie-app
 <br>
