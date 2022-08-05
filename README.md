@@ -11,4 +11,4 @@
 <br>
 
 >완성된 사이트 : https://bonooy.github.io/movie-app/<br>
->실행(npm run deploy)
+>npm run deploy
